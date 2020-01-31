@@ -11,7 +11,7 @@ export const moduleShow = {
         success: false,
         loaded: true,
 
-        // Below is for creating tickets in API
+        // Below is for creating tickets in the API
         ticket: { // This is the form data that will be sent to API as a ticket will all the required fields
             subject: null,
             description: null,
